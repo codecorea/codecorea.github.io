@@ -197,7 +197,7 @@ article:not(:last-of-type) {
 }
 
 article header h1 {
-    font-size: 1.35em;
+    font-size: 1.5em;
     line-height: 1.1em;
     margin-bottom: 0.5em;
     font-weight: 600;
@@ -374,25 +374,25 @@ footer {
 article.post .tit_cont > h2 { display: none; }
 article.post .box_txtPhoto .txt_p { margin-top: 1.5em; }
 
-article.post .box_txtPhoto .img_typeBox {
+/*article.post .box_txtPhoto*/ .img_typeBox {
     width: 100%;
     margin: 1em 0 0 0;
 }
-article.post .box_txtPhoto .img_typeBox.typeFix > div {
+/*article.post .box_txtPhoto*/ .img_typeBox.typeFix > div {
     width: 100%;
     text-align: center;
 }
-article.post .box_txtPhoto .img_typeBox button {
+/*article.post .box_txtPhoto*/ .img_typeBox button {
     width: 100%;
     height: 100%;
     border: 0 none;
     background-color: transparent;
 }
-article.post .box_txtPhoto .img_typeBox.typeFix img {
+/*article.post .box_txtPhoto*/ .img_typeBox.typeFix img {
     max-width: 100%;
     height: auto;
 }
-article.post .box_txtPhoto .img_typeBox .tit {
+/*article.post .box_txtPhoto*/ .img_typeBox .tit {
     display: block;
     font-size: 14px;
     color: #333;

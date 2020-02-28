@@ -6,9 +6,64 @@
     <description>Korea Tour (Categories)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 27 Feb 2020 22:21:17 +0900</lastBuildDate>
     
     <atom:link href="https://codecorea.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>russian</title>
+      <link>https://codecorea.github.io/categories/russian/</link>
+      <pubDate>Thu, 27 Feb 2020 22:21:17 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/categories/russian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>french</title>
+      <link>https://codecorea.github.io/categories/french/</link>
+      <pubDate>Thu, 27 Feb 2020 22:18:27 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/categories/french/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spanish</title>
+      <link>https://codecorea.github.io/categories/spanish/</link>
+      <pubDate>Thu, 27 Feb 2020 22:15:40 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/categories/spanish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>german</title>
+      <link>https://codecorea.github.io/categories/german/</link>
+      <pubDate>Thu, 27 Feb 2020 22:12:50 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/categories/german/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chinese</title>
+      <link>https://codecorea.github.io/categories/chinese/</link>
+      <pubDate>Thu, 27 Feb 2020 22:10:02 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/categories/chinese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>english</title>
+      <link>https://codecorea.github.io/categories/english/</link>
+      <pubDate>Thu, 27 Feb 2020 22:07:14 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/categories/english/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
