@@ -6,10 +6,64 @@
     <description>Korea Tour (Tags)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Mar 2020 23:39:38 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2020 08:46:16 +0900</lastBuildDate>
     
     <atom:link href="https://codecorea.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Daegu</title>
+      <link>https://codecorea.github.io/tags/daegu/</link>
+      <pubDate>Fri, 06 Mar 2020 08:46:16 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/daegu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Korea</title>
+      <link>https://codecorea.github.io/tags/korea/</link>
+      <pubDate>Fri, 06 Mar 2020 08:46:16 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/korea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>South</title>
+      <link>https://codecorea.github.io/tags/south/</link>
+      <pubDate>Fri, 06 Mar 2020 08:46:16 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/south/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suseong-gu</title>
+      <link>https://codecorea.github.io/tags/suseong-gu/</link>
+      <pubDate>Fri, 06 Mar 2020 08:46:16 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/suseong-gu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chungbuk</title>
+      <link>https://codecorea.github.io/tags/chungbuk/</link>
+      <pubDate>Fri, 06 Mar 2020 08:26:56 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/chungbuk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chungju</title>
+      <link>https://codecorea.github.io/tags/chungju/</link>
+      <pubDate>Fri, 06 Mar 2020 08:26:56 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/chungju/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Gyeongnam</title>
@@ -17,15 +71,6 @@
       <pubDate>Thu, 05 Mar 2020 23:39:38 +0900</pubDate>
       
       <guid>https://codecorea.github.io/tags/gyeongnam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Korea</title>
-      <link>https://codecorea.github.io/tags/korea/</link>
-      <pubDate>Thu, 05 Mar 2020 23:39:38 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/korea/</guid>
       <description></description>
     </item>
     
@@ -53,15 +98,6 @@
       <pubDate>Thu, 05 Mar 2020 23:20:13 +0900</pubDate>
       
       <guid>https://codecorea.github.io/tags/pyeongchang-gun/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>South</title>
-      <link>https://codecorea.github.io/tags/south/</link>
-      <pubDate>Thu, 05 Mar 2020 23:20:13 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/south/</guid>
       <description></description>
     </item>
     
@@ -98,15 +134,6 @@
       <pubDate>Thu, 05 Mar 2020 22:23:22 +0900</pubDate>
       
       <guid>https://codecorea.github.io/tags/boryeong/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Daegu</title>
-      <link>https://codecorea.github.io/tags/daegu/</link>
-      <pubDate>Thu, 05 Mar 2020 22:08:03 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/daegu/</guid>
       <description></description>
     </item>
     
@@ -570,15 +597,6 @@
     </item>
     
     <item>
-      <title>Chungbuk</title>
-      <link>https://codecorea.github.io/tags/chungbuk/</link>
-      <pubDate>Mon, 24 Feb 2020 22:25:03 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/chungbuk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Jecheon</title>
       <link>https://codecorea.github.io/tags/jecheon/</link>
       <pubDate>Mon, 24 Feb 2020 22:25:03 +0900</pubDate>
@@ -629,15 +647,6 @@
       <pubDate>Sat, 22 Feb 2020 19:59:26 +0900</pubDate>
       
       <guid>https://codecorea.github.io/tags/buan-gun/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chungju</title>
-      <link>https://codecorea.github.io/tags/chungju/</link>
-      <pubDate>Sat, 22 Feb 2020 19:09:20 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/chungju/</guid>
       <description></description>
     </item>
     
