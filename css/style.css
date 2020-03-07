@@ -410,3 +410,11 @@ article.post .box_txtPhoto .ar_title {
 article.post .box_txtPhoto div.txt_p:last-of-type > p:last-of-type {
     font-size: 0.7em;
 }
+
+/* index.html, categories, tags */
+.cover img {
+    max-width: 100%;
+    height: auto;
+}
+
+.read-more { margin-top: 0.5em; }
