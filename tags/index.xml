@@ -6,17 +6,197 @@
     <description>Every Corner of Korea (Tags)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Mar 2020 14:55:09 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2020 15:17:55 +0900</lastBuildDate>
     
     <atom:link href="https://codecorea.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Gwangju</title>
+      <link>https://codecorea.github.io/tags/gwangju/</link>
+      <pubDate>Thu, 12 Mar 2020 15:17:55 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/gwangju/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Korea</title>
       <link>https://codecorea.github.io/tags/korea/</link>
-      <pubDate>Thu, 12 Mar 2020 14:55:09 +0900</pubDate>
+      <pubDate>Thu, 12 Mar 2020 15:17:55 +0900</pubDate>
       
       <guid>https://codecorea.github.io/tags/korea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nam-gu</title>
+      <link>https://codecorea.github.io/tags/nam-gu/</link>
+      <pubDate>Thu, 12 Mar 2020 15:17:55 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/nam-gu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gwangju.zh-CN</title>
+      <link>https://codecorea.github.io/tags/gwangju.zh-cn/</link>
+      <pubDate>Thu, 12 Mar 2020 15:17:54 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/gwangju.zh-cn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Korea.zh-CN</title>
+      <link>https://codecorea.github.io/tags/korea.zh-cn/</link>
+      <pubDate>Thu, 12 Mar 2020 15:17:54 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/korea.zh-cn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nam-gu.zh-CN</title>
+      <link>https://codecorea.github.io/tags/nam-gu.zh-cn/</link>
+      <pubDate>Thu, 12 Mar 2020 15:17:54 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/nam-gu.zh-cn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gwangju.ja</title>
+      <link>https://codecorea.github.io/tags/gwangju.ja/</link>
+      <pubDate>Thu, 12 Mar 2020 15:17:53 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/gwangju.ja/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Korea.ja</title>
+      <link>https://codecorea.github.io/tags/korea.ja/</link>
+      <pubDate>Thu, 12 Mar 2020 15:17:53 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/korea.ja/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nam-gu.ja</title>
+      <link>https://codecorea.github.io/tags/nam-gu.ja/</link>
+      <pubDate>Thu, 12 Mar 2020 15:17:53 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/nam-gu.ja/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gwangju.ru</title>
+      <link>https://codecorea.github.io/tags/gwangju.ru/</link>
+      <pubDate>Thu, 12 Mar 2020 15:17:52 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/gwangju.ru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Korea.ru</title>
+      <link>https://codecorea.github.io/tags/korea.ru/</link>
+      <pubDate>Thu, 12 Mar 2020 15:17:52 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/korea.ru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nam-gu.ru</title>
+      <link>https://codecorea.github.io/tags/nam-gu.ru/</link>
+      <pubDate>Thu, 12 Mar 2020 15:17:52 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/nam-gu.ru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gwangju.es</title>
+      <link>https://codecorea.github.io/tags/gwangju.es/</link>
+      <pubDate>Thu, 12 Mar 2020 15:17:51 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/gwangju.es/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Korea.es</title>
+      <link>https://codecorea.github.io/tags/korea.es/</link>
+      <pubDate>Thu, 12 Mar 2020 15:17:51 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/korea.es/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nam-gu.es</title>
+      <link>https://codecorea.github.io/tags/nam-gu.es/</link>
+      <pubDate>Thu, 12 Mar 2020 15:17:51 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/nam-gu.es/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gwangju.de</title>
+      <link>https://codecorea.github.io/tags/gwangju.de/</link>
+      <pubDate>Thu, 12 Mar 2020 15:17:49 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/gwangju.de/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Korea.de</title>
+      <link>https://codecorea.github.io/tags/korea.de/</link>
+      <pubDate>Thu, 12 Mar 2020 15:17:49 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/korea.de/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nam-gu.de</title>
+      <link>https://codecorea.github.io/tags/nam-gu.de/</link>
+      <pubDate>Thu, 12 Mar 2020 15:17:49 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/nam-gu.de/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gwangju.fr</title>
+      <link>https://codecorea.github.io/tags/gwangju.fr/</link>
+      <pubDate>Thu, 12 Mar 2020 15:17:48 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/gwangju.fr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Korea.fr</title>
+      <link>https://codecorea.github.io/tags/korea.fr/</link>
+      <pubDate>Thu, 12 Mar 2020 15:17:48 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/korea.fr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nam-gu.fr</title>
+      <link>https://codecorea.github.io/tags/nam-gu.fr/</link>
+      <pubDate>Thu, 12 Mar 2020 15:17:48 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/nam-gu.fr/</guid>
       <description></description>
     </item>
     
@@ -75,15 +255,6 @@
     </item>
     
     <item>
-      <title>Korea.zh-CN</title>
-      <link>https://codecorea.github.io/tags/korea.zh-cn/</link>
-      <pubDate>Thu, 12 Mar 2020 14:55:06 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/korea.zh-cn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Seoul.zh-CN</title>
       <link>https://codecorea.github.io/tags/seoul.zh-cn/</link>
       <pubDate>Thu, 12 Mar 2020 14:55:06 +0900</pubDate>
@@ -134,15 +305,6 @@
       <pubDate>Thu, 12 Mar 2020 14:55:04 +0900</pubDate>
       
       <guid>https://codecorea.github.io/tags/uljin-gun.zh-cn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Korea.ja</title>
-      <link>https://codecorea.github.io/tags/korea.ja/</link>
-      <pubDate>Thu, 12 Mar 2020 14:55:03 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/korea.ja/</guid>
       <description></description>
     </item>
     
@@ -201,15 +363,6 @@
     </item>
     
     <item>
-      <title>Korea.ru</title>
-      <link>https://codecorea.github.io/tags/korea.ru/</link>
-      <pubDate>Thu, 12 Mar 2020 14:55:00 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/korea.ru/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Seoul.ru</title>
       <link>https://codecorea.github.io/tags/seoul.ru/</link>
       <pubDate>Thu, 12 Mar 2020 14:55:00 +0900</pubDate>
@@ -260,15 +413,6 @@
       <pubDate>Thu, 12 Mar 2020 14:54:57 +0900</pubDate>
       
       <guid>https://codecorea.github.io/tags/uljin-gun.ru/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Korea.es</title>
-      <link>https://codecorea.github.io/tags/korea.es/</link>
-      <pubDate>Thu, 12 Mar 2020 14:54:56 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/korea.es/</guid>
       <description></description>
     </item>
     
@@ -327,15 +471,6 @@
     </item>
     
     <item>
-      <title>Korea.de</title>
-      <link>https://codecorea.github.io/tags/korea.de/</link>
-      <pubDate>Thu, 12 Mar 2020 14:54:53 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/korea.de/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Seoul.de</title>
       <link>https://codecorea.github.io/tags/seoul.de/</link>
       <pubDate>Thu, 12 Mar 2020 14:54:53 +0900</pubDate>
@@ -386,15 +521,6 @@
       <pubDate>Thu, 12 Mar 2020 14:54:51 +0900</pubDate>
       
       <guid>https://codecorea.github.io/tags/uljin-gun.de/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Korea.fr</title>
-      <link>https://codecorea.github.io/tags/korea.fr/</link>
-      <pubDate>Thu, 12 Mar 2020 14:54:50 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/korea.fr/</guid>
       <description></description>
     </item>
     
@@ -2406,15 +2532,6 @@
     </item>
     
     <item>
-      <title>Gwangju.zh-CN</title>
-      <link>https://codecorea.github.io/tags/gwangju.zh-cn/</link>
-      <pubDate>Tue, 10 Mar 2020 22:35:32 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/gwangju.zh-cn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Gyeonggi.zh-CN</title>
       <link>https://codecorea.github.io/tags/gyeonggi.zh-cn/</link>
       <pubDate>Tue, 10 Mar 2020 22:35:32 +0900</pubDate>
@@ -2429,15 +2546,6 @@
       <pubDate>Tue, 10 Mar 2020 22:35:31 +0900</pubDate>
       
       <guid>https://codecorea.github.io/tags/songpa-gu.zh-cn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gwangju</title>
-      <link>https://codecorea.github.io/tags/gwangju/</link>
-      <pubDate>Tue, 10 Mar 2020 22:35:26 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/gwangju/</guid>
       <description></description>
     </item>
     
@@ -2460,15 +2568,6 @@
     </item>
     
     <item>
-      <title>Gwangju.ja</title>
-      <link>https://codecorea.github.io/tags/gwangju.ja/</link>
-      <pubDate>Tue, 10 Mar 2020 22:35:20 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/gwangju.ja/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Gyeonggi.ja</title>
       <link>https://codecorea.github.io/tags/gyeonggi.ja/</link>
       <pubDate>Tue, 10 Mar 2020 22:35:20 +0900</pubDate>
@@ -2483,15 +2582,6 @@
       <pubDate>Tue, 10 Mar 2020 22:35:19 +0900</pubDate>
       
       <guid>https://codecorea.github.io/tags/songpa-gu.ja/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gwangju.ru</title>
-      <link>https://codecorea.github.io/tags/gwangju.ru/</link>
-      <pubDate>Tue, 10 Mar 2020 22:35:13 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/gwangju.ru/</guid>
       <description></description>
     </item>
     
@@ -2514,15 +2604,6 @@
     </item>
     
     <item>
-      <title>Gwangju.es</title>
-      <link>https://codecorea.github.io/tags/gwangju.es/</link>
-      <pubDate>Tue, 10 Mar 2020 22:35:07 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/gwangju.es/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Gyeonggi.es</title>
       <link>https://codecorea.github.io/tags/gyeonggi.es/</link>
       <pubDate>Tue, 10 Mar 2020 22:35:07 +0900</pubDate>
@@ -2541,15 +2622,6 @@
     </item>
     
     <item>
-      <title>Gwangju.de</title>
-      <link>https://codecorea.github.io/tags/gwangju.de/</link>
-      <pubDate>Tue, 10 Mar 2020 22:35:01 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/gwangju.de/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Gyeonggi.de</title>
       <link>https://codecorea.github.io/tags/gyeonggi.de/</link>
       <pubDate>Tue, 10 Mar 2020 22:35:01 +0900</pubDate>
@@ -2564,15 +2636,6 @@
       <pubDate>Tue, 10 Mar 2020 22:35:00 +0900</pubDate>
       
       <guid>https://codecorea.github.io/tags/songpa-gu.de/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gwangju.fr</title>
-      <link>https://codecorea.github.io/tags/gwangju.fr/</link>
-      <pubDate>Tue, 10 Mar 2020 22:34:55 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/gwangju.fr/</guid>
       <description></description>
     </item>
     
