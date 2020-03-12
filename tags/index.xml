@@ -6,10 +6,37 @@
     <description>Every Corner of Korea (Tags)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Mar 2020 04:13:43 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2020 09:56:26 +0900</lastBuildDate>
     
     <atom:link href="https://codecorea.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dongdaemun-gu</title>
+      <link>https://codecorea.github.io/tags/dongdaemun-gu/</link>
+      <pubDate>Thu, 12 Mar 2020 09:56:26 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/dongdaemun-gu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Korea</title>
+      <link>https://codecorea.github.io/tags/korea/</link>
+      <pubDate>Thu, 12 Mar 2020 09:56:26 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/korea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seoul</title>
+      <link>https://codecorea.github.io/tags/seoul/</link>
+      <pubDate>Thu, 12 Mar 2020 09:56:26 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/seoul/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Gangwon.zh-CN</title>
@@ -174,15 +201,6 @@
     </item>
     
     <item>
-      <title>Korea</title>
-      <link>https://codecorea.github.io/tags/korea/</link>
-      <pubDate>Thu, 12 Mar 2020 04:13:33 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/korea/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Pyeongchang-gun</title>
       <link>https://codecorea.github.io/tags/pyeongchang-gun/</link>
       <pubDate>Thu, 12 Mar 2020 04:13:33 +0900</pubDate>
@@ -251,15 +269,6 @@
       <pubDate>Thu, 12 Mar 2020 04:13:29 +0900</pubDate>
       
       <guid>https://codecorea.github.io/tags/tongyeong/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Seoul</title>
-      <link>https://codecorea.github.io/tags/seoul/</link>
-      <pubDate>Thu, 12 Mar 2020 04:13:28 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/seoul/</guid>
       <description></description>
     </item>
     
