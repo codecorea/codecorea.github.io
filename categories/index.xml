@@ -6,24 +6,15 @@
     <description>Every Corner of Korea (Categories)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Mar 2020 16:36:51 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2020 20:16:58 +0900</lastBuildDate>
     
     <atom:link href="https://codecorea.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>chinese</title>
-      <link>https://codecorea.github.io/categories/chinese/</link>
-      <pubDate>Sun, 15 Mar 2020 16:36:51 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/categories/chinese/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>english</title>
       <link>https://codecorea.github.io/categories/english/</link>
-      <pubDate>Sat, 14 Mar 2020 16:04:33 +0900</pubDate>
+      <pubDate>Sun, 15 Mar 2020 20:16:58 +0900</pubDate>
       
       <guid>https://codecorea.github.io/categories/english/</guid>
       <description></description>
@@ -32,7 +23,7 @@
     <item>
       <title>japanese</title>
       <link>https://codecorea.github.io/categories/japanese/</link>
-      <pubDate>Sat, 14 Mar 2020 16:04:13 +0900</pubDate>
+      <pubDate>Sun, 15 Mar 2020 20:16:48 +0900</pubDate>
       
       <guid>https://codecorea.github.io/categories/japanese/</guid>
       <description></description>
@@ -41,16 +32,25 @@
     <item>
       <title>russian</title>
       <link>https://codecorea.github.io/categories/russian/</link>
-      <pubDate>Sat, 14 Mar 2020 16:04:02 +0900</pubDate>
+      <pubDate>Sun, 15 Mar 2020 20:16:37 +0900</pubDate>
       
       <guid>https://codecorea.github.io/categories/russian/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>chinese</title>
+      <link>https://codecorea.github.io/categories/chinese/</link>
+      <pubDate>Sun, 15 Mar 2020 20:16:27 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/categories/chinese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>spanish</title>
       <link>https://codecorea.github.io/categories/spanish/</link>
-      <pubDate>Sat, 14 Mar 2020 16:03:52 +0900</pubDate>
+      <pubDate>Sun, 15 Mar 2020 20:16:16 +0900</pubDate>
       
       <guid>https://codecorea.github.io/categories/spanish/</guid>
       <description></description>
@@ -59,7 +59,7 @@
     <item>
       <title>german</title>
       <link>https://codecorea.github.io/categories/german/</link>
-      <pubDate>Sat, 14 Mar 2020 16:03:41 +0900</pubDate>
+      <pubDate>Sun, 15 Mar 2020 20:16:06 +0900</pubDate>
       
       <guid>https://codecorea.github.io/categories/german/</guid>
       <description></description>
@@ -68,7 +68,7 @@
     <item>
       <title>french</title>
       <link>https://codecorea.github.io/categories/french/</link>
-      <pubDate>Sat, 14 Mar 2020 16:03:31 +0900</pubDate>
+      <pubDate>Sun, 15 Mar 2020 20:15:56 +0900</pubDate>
       
       <guid>https://codecorea.github.io/categories/french/</guid>
       <description></description>
