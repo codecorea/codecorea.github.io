@@ -6,10 +6,19 @@
     <description>Every Corner of Korea (Categories)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Mar 2020 16:04:33 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2020 16:36:51 +0900</lastBuildDate>
     
     <atom:link href="https://codecorea.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>chinese</title>
+      <link>https://codecorea.github.io/categories/chinese/</link>
+      <pubDate>Sun, 15 Mar 2020 16:36:51 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/categories/chinese/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>english</title>
