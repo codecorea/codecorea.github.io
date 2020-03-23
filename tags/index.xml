@@ -6,10 +6,883 @@
     <description>Every Corner of Korea (Tags)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Mar 2020 21:45:19 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2020 00:08:31 +0900</lastBuildDate>
     
     <atom:link href="https://codecorea.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Jung-gu</title>
+      <link>https://codecorea.github.io/tags/jung-gu/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:31 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/jung-gu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Korea</title>
+      <link>https://codecorea.github.io/tags/korea/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:31 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/korea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seoul</title>
+      <link>https://codecorea.github.io/tags/seoul/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:31 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/seoul/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeju</title>
+      <link>https://codecorea.github.io/tags/jeju/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:30 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/jeju/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seogwipo</title>
+      <link>https://codecorea.github.io/tags/seogwipo/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:30 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/seogwipo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gyeonggi-do</title>
+      <link>https://codecorea.github.io/tags/gyeonggi-do/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:29 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/gyeonggi-do/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uiwang-si</title>
+      <link>https://codecorea.github.io/tags/uiwang-si/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:29 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/uiwang-si/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geoje-si</title>
+      <link>https://codecorea.github.io/tags/geoje-si/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:28 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/geoje-si/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gyeongnam</title>
+      <link>https://codecorea.github.io/tags/gyeongnam/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:28 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/gyeongnam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gyeongbuk</title>
+      <link>https://codecorea.github.io/tags/gyeongbuk/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:27 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/gyeongbuk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yecheon-gun</title>
+      <link>https://codecorea.github.io/tags/yecheon-gun/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:27 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/yecheon-gun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chungcheongnam-do</title>
+      <link>https://codecorea.github.io/tags/chungcheongnam-do/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:25 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/chungcheongnam-do/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dangjin-si</title>
+      <link>https://codecorea.github.io/tags/dangjin-si/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:25 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/dangjin-si/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jung-gu.ja</title>
+      <link>https://codecorea.github.io/tags/jung-gu.ja/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:24 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/jung-gu.ja/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Korea.ja</title>
+      <link>https://codecorea.github.io/tags/korea.ja/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:24 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/korea.ja/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seoul.ja</title>
+      <link>https://codecorea.github.io/tags/seoul.ja/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:24 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/seoul.ja/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeju.ja</title>
+      <link>https://codecorea.github.io/tags/jeju.ja/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:23 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/jeju.ja/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seogwipo.ja</title>
+      <link>https://codecorea.github.io/tags/seogwipo.ja/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:23 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/seogwipo.ja/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gyeonggi-do.ja</title>
+      <link>https://codecorea.github.io/tags/gyeonggi-do.ja/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:22 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/gyeonggi-do.ja/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uiwang-si.ja</title>
+      <link>https://codecorea.github.io/tags/uiwang-si.ja/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:22 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/uiwang-si.ja/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geoje-si.ja</title>
+      <link>https://codecorea.github.io/tags/geoje-si.ja/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:21 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/geoje-si.ja/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gyeongnam.ja</title>
+      <link>https://codecorea.github.io/tags/gyeongnam.ja/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:21 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/gyeongnam.ja/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gyeongbuk.ja</title>
+      <link>https://codecorea.github.io/tags/gyeongbuk.ja/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:20 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/gyeongbuk.ja/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yecheon-gun.ja</title>
+      <link>https://codecorea.github.io/tags/yecheon-gun.ja/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:20 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/yecheon-gun.ja/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chungcheongnam-do.ja</title>
+      <link>https://codecorea.github.io/tags/chungcheongnam-do.ja/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:19 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/chungcheongnam-do.ja/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dangjin-si.ja</title>
+      <link>https://codecorea.github.io/tags/dangjin-si.ja/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:19 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/dangjin-si.ja/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jung-gu.ru</title>
+      <link>https://codecorea.github.io/tags/jung-gu.ru/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:18 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/jung-gu.ru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Korea.ru</title>
+      <link>https://codecorea.github.io/tags/korea.ru/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:18 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/korea.ru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seoul.ru</title>
+      <link>https://codecorea.github.io/tags/seoul.ru/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:18 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/seoul.ru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeju.ru</title>
+      <link>https://codecorea.github.io/tags/jeju.ru/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:17 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/jeju.ru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seogwipo.ru</title>
+      <link>https://codecorea.github.io/tags/seogwipo.ru/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:17 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/seogwipo.ru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gyeonggi-do.ru</title>
+      <link>https://codecorea.github.io/tags/gyeonggi-do.ru/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:16 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/gyeonggi-do.ru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uiwang-si.ru</title>
+      <link>https://codecorea.github.io/tags/uiwang-si.ru/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:16 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/uiwang-si.ru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geoje-si.ru</title>
+      <link>https://codecorea.github.io/tags/geoje-si.ru/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:15 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/geoje-si.ru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gyeongnam.ru</title>
+      <link>https://codecorea.github.io/tags/gyeongnam.ru/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:15 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/gyeongnam.ru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gyeongbuk.ru</title>
+      <link>https://codecorea.github.io/tags/gyeongbuk.ru/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:14 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/gyeongbuk.ru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yecheon-gun.ru</title>
+      <link>https://codecorea.github.io/tags/yecheon-gun.ru/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:14 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/yecheon-gun.ru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chungcheongnam-do.ru</title>
+      <link>https://codecorea.github.io/tags/chungcheongnam-do.ru/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:13 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/chungcheongnam-do.ru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dangjin-si.ru</title>
+      <link>https://codecorea.github.io/tags/dangjin-si.ru/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:13 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/dangjin-si.ru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jung-gu.zh-TW</title>
+      <link>https://codecorea.github.io/tags/jung-gu.zh-tw/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:12 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/jung-gu.zh-tw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Korea.zh-TW</title>
+      <link>https://codecorea.github.io/tags/korea.zh-tw/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:12 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/korea.zh-tw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seoul.zh-TW</title>
+      <link>https://codecorea.github.io/tags/seoul.zh-tw/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:12 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/seoul.zh-tw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeju.zh-TW</title>
+      <link>https://codecorea.github.io/tags/jeju.zh-tw/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:11 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/jeju.zh-tw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seogwipo.zh-TW</title>
+      <link>https://codecorea.github.io/tags/seogwipo.zh-tw/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:11 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/seogwipo.zh-tw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gyeonggi-do.zh-TW</title>
+      <link>https://codecorea.github.io/tags/gyeonggi-do.zh-tw/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:10 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/gyeonggi-do.zh-tw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uiwang-si.zh-TW</title>
+      <link>https://codecorea.github.io/tags/uiwang-si.zh-tw/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:10 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/uiwang-si.zh-tw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geoje-si.zh-TW</title>
+      <link>https://codecorea.github.io/tags/geoje-si.zh-tw/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:09 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/geoje-si.zh-tw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gyeongnam.zh-TW</title>
+      <link>https://codecorea.github.io/tags/gyeongnam.zh-tw/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:09 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/gyeongnam.zh-tw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gyeongbuk.zh-TW</title>
+      <link>https://codecorea.github.io/tags/gyeongbuk.zh-tw/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:08 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/gyeongbuk.zh-tw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yecheon-gun.zh-TW</title>
+      <link>https://codecorea.github.io/tags/yecheon-gun.zh-tw/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:08 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/yecheon-gun.zh-tw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chungcheongnam-do.zh-TW</title>
+      <link>https://codecorea.github.io/tags/chungcheongnam-do.zh-tw/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:07 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/chungcheongnam-do.zh-tw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dangjin-si.zh-TW</title>
+      <link>https://codecorea.github.io/tags/dangjin-si.zh-tw/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:07 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/dangjin-si.zh-tw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jung-gu.es</title>
+      <link>https://codecorea.github.io/tags/jung-gu.es/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:06 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/jung-gu.es/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Korea.es</title>
+      <link>https://codecorea.github.io/tags/korea.es/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:06 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/korea.es/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seoul.es</title>
+      <link>https://codecorea.github.io/tags/seoul.es/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:06 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/seoul.es/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeju.es</title>
+      <link>https://codecorea.github.io/tags/jeju.es/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:05 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/jeju.es/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seogwipo.es</title>
+      <link>https://codecorea.github.io/tags/seogwipo.es/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:05 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/seogwipo.es/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gyeonggi-do.es</title>
+      <link>https://codecorea.github.io/tags/gyeonggi-do.es/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:04 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/gyeonggi-do.es/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uiwang-si.es</title>
+      <link>https://codecorea.github.io/tags/uiwang-si.es/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:04 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/uiwang-si.es/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geoje-si.es</title>
+      <link>https://codecorea.github.io/tags/geoje-si.es/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:03 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/geoje-si.es/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gyeongnam.es</title>
+      <link>https://codecorea.github.io/tags/gyeongnam.es/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:03 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/gyeongnam.es/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gyeongbuk.es</title>
+      <link>https://codecorea.github.io/tags/gyeongbuk.es/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:02 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/gyeongbuk.es/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yecheon-gun.es</title>
+      <link>https://codecorea.github.io/tags/yecheon-gun.es/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:02 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/yecheon-gun.es/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chungcheongnam-do.es</title>
+      <link>https://codecorea.github.io/tags/chungcheongnam-do.es/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:01 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/chungcheongnam-do.es/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dangjin-si.es</title>
+      <link>https://codecorea.github.io/tags/dangjin-si.es/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:01 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/dangjin-si.es/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jung-gu.de</title>
+      <link>https://codecorea.github.io/tags/jung-gu.de/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:00 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/jung-gu.de/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Korea.de</title>
+      <link>https://codecorea.github.io/tags/korea.de/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:00 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/korea.de/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seoul.de</title>
+      <link>https://codecorea.github.io/tags/seoul.de/</link>
+      <pubDate>Tue, 24 Mar 2020 00:08:00 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/seoul.de/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeju.de</title>
+      <link>https://codecorea.github.io/tags/jeju.de/</link>
+      <pubDate>Tue, 24 Mar 2020 00:07:59 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/jeju.de/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seogwipo.de</title>
+      <link>https://codecorea.github.io/tags/seogwipo.de/</link>
+      <pubDate>Tue, 24 Mar 2020 00:07:59 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/seogwipo.de/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gyeonggi-do.de</title>
+      <link>https://codecorea.github.io/tags/gyeonggi-do.de/</link>
+      <pubDate>Tue, 24 Mar 2020 00:07:58 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/gyeonggi-do.de/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uiwang-si.de</title>
+      <link>https://codecorea.github.io/tags/uiwang-si.de/</link>
+      <pubDate>Tue, 24 Mar 2020 00:07:58 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/uiwang-si.de/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geoje-si.de</title>
+      <link>https://codecorea.github.io/tags/geoje-si.de/</link>
+      <pubDate>Tue, 24 Mar 2020 00:07:57 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/geoje-si.de/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gyeongnam.de</title>
+      <link>https://codecorea.github.io/tags/gyeongnam.de/</link>
+      <pubDate>Tue, 24 Mar 2020 00:07:57 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/gyeongnam.de/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gyeongbuk.de</title>
+      <link>https://codecorea.github.io/tags/gyeongbuk.de/</link>
+      <pubDate>Tue, 24 Mar 2020 00:07:55 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/gyeongbuk.de/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yecheon-gun.de</title>
+      <link>https://codecorea.github.io/tags/yecheon-gun.de/</link>
+      <pubDate>Tue, 24 Mar 2020 00:07:55 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/yecheon-gun.de/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chungcheongnam-do.de</title>
+      <link>https://codecorea.github.io/tags/chungcheongnam-do.de/</link>
+      <pubDate>Tue, 24 Mar 2020 00:07:54 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/chungcheongnam-do.de/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dangjin-si.de</title>
+      <link>https://codecorea.github.io/tags/dangjin-si.de/</link>
+      <pubDate>Tue, 24 Mar 2020 00:07:54 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/dangjin-si.de/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jung-gu.fr</title>
+      <link>https://codecorea.github.io/tags/jung-gu.fr/</link>
+      <pubDate>Tue, 24 Mar 2020 00:07:53 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/jung-gu.fr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Korea.fr</title>
+      <link>https://codecorea.github.io/tags/korea.fr/</link>
+      <pubDate>Tue, 24 Mar 2020 00:07:53 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/korea.fr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seoul.fr</title>
+      <link>https://codecorea.github.io/tags/seoul.fr/</link>
+      <pubDate>Tue, 24 Mar 2020 00:07:53 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/seoul.fr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeju.fr</title>
+      <link>https://codecorea.github.io/tags/jeju.fr/</link>
+      <pubDate>Tue, 24 Mar 2020 00:07:52 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/jeju.fr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seogwipo.fr</title>
+      <link>https://codecorea.github.io/tags/seogwipo.fr/</link>
+      <pubDate>Tue, 24 Mar 2020 00:07:52 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/seogwipo.fr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gyeonggi-do.fr</title>
+      <link>https://codecorea.github.io/tags/gyeonggi-do.fr/</link>
+      <pubDate>Tue, 24 Mar 2020 00:07:51 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/gyeonggi-do.fr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uiwang-si.fr</title>
+      <link>https://codecorea.github.io/tags/uiwang-si.fr/</link>
+      <pubDate>Tue, 24 Mar 2020 00:07:51 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/uiwang-si.fr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geoje-si.fr</title>
+      <link>https://codecorea.github.io/tags/geoje-si.fr/</link>
+      <pubDate>Tue, 24 Mar 2020 00:07:50 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/geoje-si.fr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gyeongnam.fr</title>
+      <link>https://codecorea.github.io/tags/gyeongnam.fr/</link>
+      <pubDate>Tue, 24 Mar 2020 00:07:50 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/gyeongnam.fr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gyeongbuk.fr</title>
+      <link>https://codecorea.github.io/tags/gyeongbuk.fr/</link>
+      <pubDate>Tue, 24 Mar 2020 00:07:49 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/gyeongbuk.fr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yecheon-gun.fr</title>
+      <link>https://codecorea.github.io/tags/yecheon-gun.fr/</link>
+      <pubDate>Tue, 24 Mar 2020 00:07:49 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/yecheon-gun.fr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chungcheongnam-do.fr</title>
+      <link>https://codecorea.github.io/tags/chungcheongnam-do.fr/</link>
+      <pubDate>Tue, 24 Mar 2020 00:07:48 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/chungcheongnam-do.fr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dangjin-si.fr</title>
+      <link>https://codecorea.github.io/tags/dangjin-si.fr/</link>
+      <pubDate>Tue, 24 Mar 2020 00:07:48 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/dangjin-si.fr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yeongdeungpo-gu.zh-TW</title>
+      <link>https://codecorea.github.io/tags/yeongdeungpo-gu.zh-tw/</link>
+      <pubDate>Mon, 23 Mar 2020 22:15:32 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/yeongdeungpo-gu.zh-tw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yeongdeungpo-gu.ja</title>
+      <link>https://codecorea.github.io/tags/yeongdeungpo-gu.ja/</link>
+      <pubDate>Mon, 23 Mar 2020 22:12:55 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/yeongdeungpo-gu.ja/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yeongdeungpo-gu.ru</title>
+      <link>https://codecorea.github.io/tags/yeongdeungpo-gu.ru/</link>
+      <pubDate>Mon, 23 Mar 2020 22:10:18 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/yeongdeungpo-gu.ru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yeongdeungpo-gu.es</title>
+      <link>https://codecorea.github.io/tags/yeongdeungpo-gu.es/</link>
+      <pubDate>Mon, 23 Mar 2020 22:07:43 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/yeongdeungpo-gu.es/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yeongdeungpo-gu.de</title>
+      <link>https://codecorea.github.io/tags/yeongdeungpo-gu.de/</link>
+      <pubDate>Mon, 23 Mar 2020 22:05:11 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/yeongdeungpo-gu.de/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yeongdeungpo-gu.fr</title>
+      <link>https://codecorea.github.io/tags/yeongdeungpo-gu.fr/</link>
+      <pubDate>Mon, 23 Mar 2020 22:02:37 +0900</pubDate>
+      
+      <guid>https://codecorea.github.io/tags/yeongdeungpo-gu.fr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Gangwon.zh-TW</title>
@@ -17,15 +890,6 @@
       <pubDate>Mon, 23 Mar 2020 21:45:19 +0900</pubDate>
       
       <guid>https://codecorea.github.io/tags/gangwon.zh-tw/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Korea.zh-TW</title>
-      <link>https://codecorea.github.io/tags/korea.zh-tw/</link>
-      <pubDate>Mon, 23 Mar 2020 21:45:19 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/korea.zh-tw/</guid>
       <description></description>
     </item>
     
@@ -48,15 +912,6 @@
     </item>
     
     <item>
-      <title>Korea.ja</title>
-      <link>https://codecorea.github.io/tags/korea.ja/</link>
-      <pubDate>Mon, 23 Mar 2020 21:42:13 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/korea.ja/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Samcheok.ja</title>
       <link>https://codecorea.github.io/tags/samcheok.ja/</link>
       <pubDate>Mon, 23 Mar 2020 21:42:13 +0900</pubDate>
@@ -71,15 +926,6 @@
       <pubDate>Mon, 23 Mar 2020 21:39:06 +0900</pubDate>
       
       <guid>https://codecorea.github.io/tags/gangwon.ru/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Korea.ru</title>
-      <link>https://codecorea.github.io/tags/korea.ru/</link>
-      <pubDate>Mon, 23 Mar 2020 21:39:06 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/korea.ru/</guid>
       <description></description>
     </item>
     
@@ -102,15 +948,6 @@
     </item>
     
     <item>
-      <title>Korea.es</title>
-      <link>https://codecorea.github.io/tags/korea.es/</link>
-      <pubDate>Mon, 23 Mar 2020 21:36:10 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/korea.es/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Samcheok.es</title>
       <link>https://codecorea.github.io/tags/samcheok.es/</link>
       <pubDate>Mon, 23 Mar 2020 21:36:10 +0900</pubDate>
@@ -125,15 +962,6 @@
       <pubDate>Mon, 23 Mar 2020 21:33:07 +0900</pubDate>
       
       <guid>https://codecorea.github.io/tags/gangwon.de/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Korea.de</title>
-      <link>https://codecorea.github.io/tags/korea.de/</link>
-      <pubDate>Mon, 23 Mar 2020 21:33:07 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/korea.de/</guid>
       <description></description>
     </item>
     
@@ -156,15 +984,6 @@
     </item>
     
     <item>
-      <title>Korea.fr</title>
-      <link>https://codecorea.github.io/tags/korea.fr/</link>
-      <pubDate>Mon, 23 Mar 2020 21:30:09 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/korea.fr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Samcheok.fr</title>
       <link>https://codecorea.github.io/tags/samcheok.fr/</link>
       <pubDate>Mon, 23 Mar 2020 21:30:09 +0900</pubDate>
@@ -183,29 +1002,11 @@
     </item>
     
     <item>
-      <title>Korea</title>
-      <link>https://codecorea.github.io/tags/korea/</link>
-      <pubDate>Mon, 23 Mar 2020 21:18:39 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/korea/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Samcheok</title>
       <link>https://codecorea.github.io/tags/samcheok/</link>
       <pubDate>Mon, 23 Mar 2020 21:18:39 +0900</pubDate>
       
       <guid>https://codecorea.github.io/tags/samcheok/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Seoul</title>
-      <link>https://codecorea.github.io/tags/seoul/</link>
-      <pubDate>Thu, 19 Mar 2020 09:05:10 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/seoul/</guid>
       <description></description>
     </item>
     
@@ -228,29 +1029,11 @@
     </item>
     
     <item>
-      <title>Gyeonggi-do.zh-TW</title>
-      <link>https://codecorea.github.io/tags/gyeonggi-do.zh-tw/</link>
-      <pubDate>Thu, 19 Mar 2020 09:02:47 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/gyeonggi-do.zh-tw/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Gwangju.ja</title>
       <link>https://codecorea.github.io/tags/gwangju.ja/</link>
       <pubDate>Thu, 19 Mar 2020 09:00:26 +0900</pubDate>
       
       <guid>https://codecorea.github.io/tags/gwangju.ja/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gyeonggi-do.ja</title>
-      <link>https://codecorea.github.io/tags/gyeonggi-do.ja/</link>
-      <pubDate>Thu, 19 Mar 2020 09:00:26 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/gyeonggi-do.ja/</guid>
       <description></description>
     </item>
     
@@ -264,29 +1047,11 @@
     </item>
     
     <item>
-      <title>Gyeonggi-do.ru</title>
-      <link>https://codecorea.github.io/tags/gyeonggi-do.ru/</link>
-      <pubDate>Thu, 19 Mar 2020 08:58:04 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/gyeonggi-do.ru/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Gwangju.es</title>
       <link>https://codecorea.github.io/tags/gwangju.es/</link>
       <pubDate>Thu, 19 Mar 2020 08:55:41 +0900</pubDate>
       
       <guid>https://codecorea.github.io/tags/gwangju.es/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gyeonggi-do.es</title>
-      <link>https://codecorea.github.io/tags/gyeonggi-do.es/</link>
-      <pubDate>Thu, 19 Mar 2020 08:55:41 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/gyeonggi-do.es/</guid>
       <description></description>
     </item>
     
@@ -300,15 +1065,6 @@
     </item>
     
     <item>
-      <title>Gyeonggi-do.de</title>
-      <link>https://codecorea.github.io/tags/gyeonggi-do.de/</link>
-      <pubDate>Thu, 19 Mar 2020 08:53:21 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/gyeonggi-do.de/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Gwangju.fr</title>
       <link>https://codecorea.github.io/tags/gwangju.fr/</link>
       <pubDate>Thu, 19 Mar 2020 08:51:01 +0900</pubDate>
@@ -318,29 +1074,11 @@
     </item>
     
     <item>
-      <title>Gyeonggi-do.fr</title>
-      <link>https://codecorea.github.io/tags/gyeonggi-do.fr/</link>
-      <pubDate>Thu, 19 Mar 2020 08:51:01 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/gyeonggi-do.fr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Gwangju</title>
       <link>https://codecorea.github.io/tags/gwangju/</link>
       <pubDate>Thu, 19 Mar 2020 08:48:44 +0900</pubDate>
       
       <guid>https://codecorea.github.io/tags/gwangju/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gyeonggi-do</title>
-      <link>https://codecorea.github.io/tags/gyeonggi-do/</link>
-      <pubDate>Thu, 19 Mar 2020 08:48:44 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/gyeonggi-do/</guid>
       <description></description>
     </item>
     
@@ -1254,24 +1992,6 @@
     </item>
     
     <item>
-      <title>Jeju</title>
-      <link>https://codecorea.github.io/tags/jeju/</link>
-      <pubDate>Mon, 16 Mar 2020 13:25:30 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/jeju/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jung-gu</title>
-      <link>https://codecorea.github.io/tags/jung-gu/</link>
-      <pubDate>Mon, 16 Mar 2020 13:25:28 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/jung-gu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Andong</title>
       <link>https://codecorea.github.io/tags/andong/</link>
       <pubDate>Mon, 16 Mar 2020 13:25:27 +0900</pubDate>
@@ -1286,15 +2006,6 @@
       <pubDate>Mon, 16 Mar 2020 13:25:27 +0900</pubDate>
       
       <guid>https://codecorea.github.io/tags/city/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gyeongbuk</title>
-      <link>https://codecorea.github.io/tags/gyeongbuk/</link>
-      <pubDate>Mon, 16 Mar 2020 13:25:27 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/gyeongbuk/</guid>
       <description></description>
     </item>
     
@@ -1317,15 +2028,6 @@
     </item>
     
     <item>
-      <title>Seoul.ja</title>
-      <link>https://codecorea.github.io/tags/seoul.ja/</link>
-      <pubDate>Mon, 16 Mar 2020 13:25:22 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/seoul.ja/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Chungbuk.ja</title>
       <link>https://codecorea.github.io/tags/chungbuk.ja/</link>
       <pubDate>Mon, 16 Mar 2020 13:25:21 +0900</pubDate>
@@ -1340,24 +2042,6 @@
       <pubDate>Mon, 16 Mar 2020 13:25:21 +0900</pubDate>
       
       <guid>https://codecorea.github.io/tags/chungju.ja/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jeju.ja</title>
-      <link>https://codecorea.github.io/tags/jeju.ja/</link>
-      <pubDate>Mon, 16 Mar 2020 13:25:20 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/jeju.ja/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jung-gu.ja</title>
-      <link>https://codecorea.github.io/tags/jung-gu.ja/</link>
-      <pubDate>Mon, 16 Mar 2020 13:25:17 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/jung-gu.ja/</guid>
       <description></description>
     </item>
     
@@ -1380,15 +2064,6 @@
     </item>
     
     <item>
-      <title>Gyeongbuk.ja</title>
-      <link>https://codecorea.github.io/tags/gyeongbuk.ja/</link>
-      <pubDate>Mon, 16 Mar 2020 13:25:16 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/gyeongbuk.ja/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Gangjin-gun.ja</title>
       <link>https://codecorea.github.io/tags/gangjin-gun.ja/</link>
       <pubDate>Mon, 16 Mar 2020 13:25:15 +0900</pubDate>
@@ -1403,15 +2078,6 @@
       <pubDate>Mon, 16 Mar 2020 13:25:11 +0900</pubDate>
       
       <guid>https://codecorea.github.io/tags/geumcheon-gu.ru/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Seoul.ru</title>
-      <link>https://codecorea.github.io/tags/seoul.ru/</link>
-      <pubDate>Mon, 16 Mar 2020 13:25:11 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/seoul.ru/</guid>
       <description></description>
     </item>
     
@@ -1434,24 +2100,6 @@
     </item>
     
     <item>
-      <title>Jeju.ru</title>
-      <link>https://codecorea.github.io/tags/jeju.ru/</link>
-      <pubDate>Mon, 16 Mar 2020 13:25:09 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/jeju.ru/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jung-gu.ru</title>
-      <link>https://codecorea.github.io/tags/jung-gu.ru/</link>
-      <pubDate>Mon, 16 Mar 2020 13:25:07 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/jung-gu.ru/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Andong.ru</title>
       <link>https://codecorea.github.io/tags/andong.ru/</link>
       <pubDate>Mon, 16 Mar 2020 13:25:06 +0900</pubDate>
@@ -1466,15 +2114,6 @@
       <pubDate>Mon, 16 Mar 2020 13:25:06 +0900</pubDate>
       
       <guid>https://codecorea.github.io/tags/city.ru/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gyeongbuk.ru</title>
-      <link>https://codecorea.github.io/tags/gyeongbuk.ru/</link>
-      <pubDate>Mon, 16 Mar 2020 13:25:06 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/gyeongbuk.ru/</guid>
       <description></description>
     </item>
     
@@ -1497,15 +2136,6 @@
     </item>
     
     <item>
-      <title>Seoul.zh-TW</title>
-      <link>https://codecorea.github.io/tags/seoul.zh-tw/</link>
-      <pubDate>Mon, 16 Mar 2020 13:25:01 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/seoul.zh-tw/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Chungbuk.zh-TW</title>
       <link>https://codecorea.github.io/tags/chungbuk.zh-tw/</link>
       <pubDate>Mon, 16 Mar 2020 13:25:00 +0900</pubDate>
@@ -1520,24 +2150,6 @@
       <pubDate>Mon, 16 Mar 2020 13:25:00 +0900</pubDate>
       
       <guid>https://codecorea.github.io/tags/chungju.zh-tw/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jeju.zh-TW</title>
-      <link>https://codecorea.github.io/tags/jeju.zh-tw/</link>
-      <pubDate>Mon, 16 Mar 2020 13:24:59 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/jeju.zh-tw/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jung-gu.zh-TW</title>
-      <link>https://codecorea.github.io/tags/jung-gu.zh-tw/</link>
-      <pubDate>Mon, 16 Mar 2020 13:24:57 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/jung-gu.zh-tw/</guid>
       <description></description>
     </item>
     
@@ -1560,15 +2172,6 @@
     </item>
     
     <item>
-      <title>Gyeongbuk.zh-TW</title>
-      <link>https://codecorea.github.io/tags/gyeongbuk.zh-tw/</link>
-      <pubDate>Mon, 16 Mar 2020 13:24:56 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/gyeongbuk.zh-tw/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Gangjin-gun.zh-TW</title>
       <link>https://codecorea.github.io/tags/gangjin-gun.zh-tw/</link>
       <pubDate>Mon, 16 Mar 2020 13:24:55 +0900</pubDate>
@@ -1583,15 +2186,6 @@
       <pubDate>Mon, 16 Mar 2020 13:24:51 +0900</pubDate>
       
       <guid>https://codecorea.github.io/tags/geumcheon-gu.es/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Seoul.es</title>
-      <link>https://codecorea.github.io/tags/seoul.es/</link>
-      <pubDate>Mon, 16 Mar 2020 13:24:51 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/seoul.es/</guid>
       <description></description>
     </item>
     
@@ -1614,24 +2208,6 @@
     </item>
     
     <item>
-      <title>Jeju.es</title>
-      <link>https://codecorea.github.io/tags/jeju.es/</link>
-      <pubDate>Mon, 16 Mar 2020 13:24:49 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/jeju.es/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jung-gu.es</title>
-      <link>https://codecorea.github.io/tags/jung-gu.es/</link>
-      <pubDate>Mon, 16 Mar 2020 13:24:46 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/jung-gu.es/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Andong.es</title>
       <link>https://codecorea.github.io/tags/andong.es/</link>
       <pubDate>Mon, 16 Mar 2020 13:24:45 +0900</pubDate>
@@ -1646,15 +2222,6 @@
       <pubDate>Mon, 16 Mar 2020 13:24:45 +0900</pubDate>
       
       <guid>https://codecorea.github.io/tags/city.es/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gyeongbuk.es</title>
-      <link>https://codecorea.github.io/tags/gyeongbuk.es/</link>
-      <pubDate>Mon, 16 Mar 2020 13:24:45 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/gyeongbuk.es/</guid>
       <description></description>
     </item>
     
@@ -1677,15 +2244,6 @@
     </item>
     
     <item>
-      <title>Seoul.de</title>
-      <link>https://codecorea.github.io/tags/seoul.de/</link>
-      <pubDate>Mon, 16 Mar 2020 13:24:40 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/seoul.de/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Chungbuk.de</title>
       <link>https://codecorea.github.io/tags/chungbuk.de/</link>
       <pubDate>Mon, 16 Mar 2020 13:24:39 +0900</pubDate>
@@ -1700,24 +2258,6 @@
       <pubDate>Mon, 16 Mar 2020 13:24:39 +0900</pubDate>
       
       <guid>https://codecorea.github.io/tags/chungju.de/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jeju.de</title>
-      <link>https://codecorea.github.io/tags/jeju.de/</link>
-      <pubDate>Mon, 16 Mar 2020 13:24:38 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/jeju.de/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jung-gu.de</title>
-      <link>https://codecorea.github.io/tags/jung-gu.de/</link>
-      <pubDate>Mon, 16 Mar 2020 13:24:36 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/jung-gu.de/</guid>
       <description></description>
     </item>
     
@@ -1740,15 +2280,6 @@
     </item>
     
     <item>
-      <title>Gyeongbuk.de</title>
-      <link>https://codecorea.github.io/tags/gyeongbuk.de/</link>
-      <pubDate>Mon, 16 Mar 2020 13:24:35 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/gyeongbuk.de/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Gangjin-gun.de</title>
       <link>https://codecorea.github.io/tags/gangjin-gun.de/</link>
       <pubDate>Mon, 16 Mar 2020 13:24:34 +0900</pubDate>
@@ -1763,15 +2294,6 @@
       <pubDate>Mon, 16 Mar 2020 13:24:30 +0900</pubDate>
       
       <guid>https://codecorea.github.io/tags/geumcheon-gu.fr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Seoul.fr</title>
-      <link>https://codecorea.github.io/tags/seoul.fr/</link>
-      <pubDate>Mon, 16 Mar 2020 13:24:30 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/seoul.fr/</guid>
       <description></description>
     </item>
     
@@ -1794,24 +2316,6 @@
     </item>
     
     <item>
-      <title>Jeju.fr</title>
-      <link>https://codecorea.github.io/tags/jeju.fr/</link>
-      <pubDate>Mon, 16 Mar 2020 13:24:28 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/jeju.fr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jung-gu.fr</title>
-      <link>https://codecorea.github.io/tags/jung-gu.fr/</link>
-      <pubDate>Mon, 16 Mar 2020 13:24:26 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/jung-gu.fr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Andong.fr</title>
       <link>https://codecorea.github.io/tags/andong.fr/</link>
       <pubDate>Mon, 16 Mar 2020 13:24:25 +0900</pubDate>
@@ -1826,15 +2330,6 @@
       <pubDate>Mon, 16 Mar 2020 13:24:25 +0900</pubDate>
       
       <guid>https://codecorea.github.io/tags/city.fr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gyeongbuk.fr</title>
-      <link>https://codecorea.github.io/tags/gyeongbuk.fr/</link>
-      <pubDate>Mon, 16 Mar 2020 13:24:25 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/gyeongbuk.fr/</guid>
       <description></description>
     </item>
     
@@ -2226,15 +2721,6 @@
     </item>
     
     <item>
-      <title>Seogwipo</title>
-      <link>https://codecorea.github.io/tags/seogwipo/</link>
-      <pubDate>Sun, 15 Mar 2020 20:16:58 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/seogwipo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Gunsan-si</title>
       <link>https://codecorea.github.io/tags/gunsan-si/</link>
       <pubDate>Sun, 15 Mar 2020 20:16:57 +0900</pubDate>
@@ -2258,15 +2744,6 @@
       <pubDate>Sun, 15 Mar 2020 20:16:56 +0900</pubDate>
       
       <guid>https://codecorea.github.io/tags/seo-gu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gyeongnam</title>
-      <link>https://codecorea.github.io/tags/gyeongnam/</link>
-      <pubDate>Sun, 15 Mar 2020 20:16:55 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/gyeongnam/</guid>
       <description></description>
     </item>
     
@@ -2298,15 +2775,6 @@
     </item>
     
     <item>
-      <title>Chungcheongnam-do</title>
-      <link>https://codecorea.github.io/tags/chungcheongnam-do/</link>
-      <pubDate>Sun, 15 Mar 2020 20:16:53 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/chungcheongnam-do/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Seocheon-gun</title>
       <link>https://codecorea.github.io/tags/seocheon-gun/</link>
       <pubDate>Sun, 15 Mar 2020 20:16:53 +0900</pubDate>
@@ -2330,15 +2798,6 @@
       <pubDate>Sun, 15 Mar 2020 20:16:50 +0900</pubDate>
       
       <guid>https://codecorea.github.io/tags/yongsan-gu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Seogwipo.ja</title>
-      <link>https://codecorea.github.io/tags/seogwipo.ja/</link>
-      <pubDate>Sun, 15 Mar 2020 20:16:48 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/seogwipo.ja/</guid>
       <description></description>
     </item>
     
@@ -2370,15 +2829,6 @@
     </item>
     
     <item>
-      <title>Gyeongnam.ja</title>
-      <link>https://codecorea.github.io/tags/gyeongnam.ja/</link>
-      <pubDate>Sun, 15 Mar 2020 20:16:45 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/gyeongnam.ja/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Hadong-gun.ja</title>
       <link>https://codecorea.github.io/tags/hadong-gun.ja/</link>
       <pubDate>Sun, 15 Mar 2020 20:16:45 +0900</pubDate>
@@ -2402,15 +2852,6 @@
       <pubDate>Sun, 15 Mar 2020 20:16:44 +0900</pubDate>
       
       <guid>https://codecorea.github.io/tags/namhae-gun.ja/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chungcheongnam-do.ja</title>
-      <link>https://codecorea.github.io/tags/chungcheongnam-do.ja/</link>
-      <pubDate>Sun, 15 Mar 2020 20:16:43 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/chungcheongnam-do.ja/</guid>
       <description></description>
     </item>
     
@@ -2442,15 +2883,6 @@
     </item>
     
     <item>
-      <title>Seogwipo.ru</title>
-      <link>https://codecorea.github.io/tags/seogwipo.ru/</link>
-      <pubDate>Sun, 15 Mar 2020 20:16:37 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/seogwipo.ru/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Gunsan-si.ru</title>
       <link>https://codecorea.github.io/tags/gunsan-si.ru/</link>
       <pubDate>Sun, 15 Mar 2020 20:16:36 +0900</pubDate>
@@ -2474,15 +2906,6 @@
       <pubDate>Sun, 15 Mar 2020 20:16:35 +0900</pubDate>
       
       <guid>https://codecorea.github.io/tags/seo-gu.ru/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gyeongnam.ru</title>
-      <link>https://codecorea.github.io/tags/gyeongnam.ru/</link>
-      <pubDate>Sun, 15 Mar 2020 20:16:34 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/gyeongnam.ru/</guid>
       <description></description>
     </item>
     
@@ -2514,15 +2937,6 @@
     </item>
     
     <item>
-      <title>Chungcheongnam-do.ru</title>
-      <link>https://codecorea.github.io/tags/chungcheongnam-do.ru/</link>
-      <pubDate>Sun, 15 Mar 2020 20:16:32 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/chungcheongnam-do.ru/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Seocheon-gun.ru</title>
       <link>https://codecorea.github.io/tags/seocheon-gun.ru/</link>
       <pubDate>Sun, 15 Mar 2020 20:16:32 +0900</pubDate>
@@ -2546,15 +2960,6 @@
       <pubDate>Sun, 15 Mar 2020 20:16:29 +0900</pubDate>
       
       <guid>https://codecorea.github.io/tags/yongsan-gu.ru/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Seogwipo.zh-TW</title>
-      <link>https://codecorea.github.io/tags/seogwipo.zh-tw/</link>
-      <pubDate>Sun, 15 Mar 2020 20:16:27 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/seogwipo.zh-tw/</guid>
       <description></description>
     </item>
     
@@ -2586,15 +2991,6 @@
     </item>
     
     <item>
-      <title>Gyeongnam.zh-TW</title>
-      <link>https://codecorea.github.io/tags/gyeongnam.zh-tw/</link>
-      <pubDate>Sun, 15 Mar 2020 20:16:24 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/gyeongnam.zh-tw/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Hadong-gun.zh-TW</title>
       <link>https://codecorea.github.io/tags/hadong-gun.zh-tw/</link>
       <pubDate>Sun, 15 Mar 2020 20:16:24 +0900</pubDate>
@@ -2618,15 +3014,6 @@
       <pubDate>Sun, 15 Mar 2020 20:16:23 +0900</pubDate>
       
       <guid>https://codecorea.github.io/tags/namhae-gun.zh-tw/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chungcheongnam-do.zh-TW</title>
-      <link>https://codecorea.github.io/tags/chungcheongnam-do.zh-tw/</link>
-      <pubDate>Sun, 15 Mar 2020 20:16:22 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/chungcheongnam-do.zh-tw/</guid>
       <description></description>
     </item>
     
@@ -2658,15 +3045,6 @@
     </item>
     
     <item>
-      <title>Seogwipo.es</title>
-      <link>https://codecorea.github.io/tags/seogwipo.es/</link>
-      <pubDate>Sun, 15 Mar 2020 20:16:16 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/seogwipo.es/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Gunsan-si.es</title>
       <link>https://codecorea.github.io/tags/gunsan-si.es/</link>
       <pubDate>Sun, 15 Mar 2020 20:16:15 +0900</pubDate>
@@ -2690,15 +3068,6 @@
       <pubDate>Sun, 15 Mar 2020 20:16:14 +0900</pubDate>
       
       <guid>https://codecorea.github.io/tags/seo-gu.es/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gyeongnam.es</title>
-      <link>https://codecorea.github.io/tags/gyeongnam.es/</link>
-      <pubDate>Sun, 15 Mar 2020 20:16:13 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/gyeongnam.es/</guid>
       <description></description>
     </item>
     
@@ -2730,15 +3099,6 @@
     </item>
     
     <item>
-      <title>Chungcheongnam-do.es</title>
-      <link>https://codecorea.github.io/tags/chungcheongnam-do.es/</link>
-      <pubDate>Sun, 15 Mar 2020 20:16:11 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/chungcheongnam-do.es/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Seocheon-gun.es</title>
       <link>https://codecorea.github.io/tags/seocheon-gun.es/</link>
       <pubDate>Sun, 15 Mar 2020 20:16:11 +0900</pubDate>
@@ -2762,15 +3122,6 @@
       <pubDate>Sun, 15 Mar 2020 20:16:08 +0900</pubDate>
       
       <guid>https://codecorea.github.io/tags/yongsan-gu.es/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Seogwipo.de</title>
-      <link>https://codecorea.github.io/tags/seogwipo.de/</link>
-      <pubDate>Sun, 15 Mar 2020 20:16:06 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/seogwipo.de/</guid>
       <description></description>
     </item>
     
@@ -2802,15 +3153,6 @@
     </item>
     
     <item>
-      <title>Gyeongnam.de</title>
-      <link>https://codecorea.github.io/tags/gyeongnam.de/</link>
-      <pubDate>Sun, 15 Mar 2020 20:16:03 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/gyeongnam.de/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Hadong-gun.de</title>
       <link>https://codecorea.github.io/tags/hadong-gun.de/</link>
       <pubDate>Sun, 15 Mar 2020 20:16:03 +0900</pubDate>
@@ -2834,15 +3176,6 @@
       <pubDate>Sun, 15 Mar 2020 20:16:02 +0900</pubDate>
       
       <guid>https://codecorea.github.io/tags/namhae-gun.de/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chungcheongnam-do.de</title>
-      <link>https://codecorea.github.io/tags/chungcheongnam-do.de/</link>
-      <pubDate>Sun, 15 Mar 2020 20:16:01 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/chungcheongnam-do.de/</guid>
       <description></description>
     </item>
     
@@ -2874,15 +3207,6 @@
     </item>
     
     <item>
-      <title>Seogwipo.fr</title>
-      <link>https://codecorea.github.io/tags/seogwipo.fr/</link>
-      <pubDate>Sun, 15 Mar 2020 20:15:56 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/seogwipo.fr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Gunsan-si.fr</title>
       <link>https://codecorea.github.io/tags/gunsan-si.fr/</link>
       <pubDate>Sun, 15 Mar 2020 20:15:55 +0900</pubDate>
@@ -2910,15 +3234,6 @@
     </item>
     
     <item>
-      <title>Gyeongnam.fr</title>
-      <link>https://codecorea.github.io/tags/gyeongnam.fr/</link>
-      <pubDate>Sun, 15 Mar 2020 20:15:53 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/gyeongnam.fr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Hadong-gun.fr</title>
       <link>https://codecorea.github.io/tags/hadong-gun.fr/</link>
       <pubDate>Sun, 15 Mar 2020 20:15:53 +0900</pubDate>
@@ -2942,15 +3257,6 @@
       <pubDate>Sun, 15 Mar 2020 20:15:52 +0900</pubDate>
       
       <guid>https://codecorea.github.io/tags/namhae-gun.fr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chungcheongnam-do.fr</title>
-      <link>https://codecorea.github.io/tags/chungcheongnam-do.fr/</link>
-      <pubDate>Sun, 15 Mar 2020 20:15:51 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/chungcheongnam-do.fr/</guid>
       <description></description>
     </item>
     
@@ -2996,15 +3302,6 @@
       <pubDate>Sun, 15 Mar 2020 16:34:40 +0900</pubDate>
       
       <guid>https://codecorea.github.io/tags/eunpyeong-gu.zh-tw/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dangjin-si.zh-TW</title>
-      <link>https://codecorea.github.io/tags/dangjin-si.zh-tw/</link>
-      <pubDate>Sun, 15 Mar 2020 16:30:58 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/dangjin-si.zh-tw/</guid>
       <description></description>
     </item>
     
@@ -3131,15 +3428,6 @@
       <pubDate>Sun, 15 Mar 2020 15:35:44 +0900</pubDate>
       
       <guid>https://codecorea.github.io/tags/goseong-gun.zh-tw/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yeongdeungpo-gu.zh-TW</title>
-      <link>https://codecorea.github.io/tags/yeongdeungpo-gu.zh-tw/</link>
-      <pubDate>Sun, 15 Mar 2020 15:32:51 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/yeongdeungpo-gu.zh-tw/</guid>
       <description></description>
     </item>
     
@@ -3756,15 +4044,6 @@
     </item>
     
     <item>
-      <title>Dangjin-si</title>
-      <link>https://codecorea.github.io/tags/dangjin-si/</link>
-      <pubDate>Sat, 14 Mar 2020 16:04:31 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/dangjin-si/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Ongjin-gun</title>
       <link>https://codecorea.github.io/tags/ongjin-gun/</link>
       <pubDate>Sat, 14 Mar 2020 16:04:30 +0900</pubDate>
@@ -3824,15 +4103,6 @@
       <pubDate>Sat, 14 Mar 2020 16:04:11 +0900</pubDate>
       
       <guid>https://codecorea.github.io/tags/eunpyeong-gu.ja/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dangjin-si.ja</title>
-      <link>https://codecorea.github.io/tags/dangjin-si.ja/</link>
-      <pubDate>Sat, 14 Mar 2020 16:04:10 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/dangjin-si.ja/</guid>
       <description></description>
     </item>
     
@@ -3900,15 +4170,6 @@
     </item>
     
     <item>
-      <title>Dangjin-si.ru</title>
-      <link>https://codecorea.github.io/tags/dangjin-si.ru/</link>
-      <pubDate>Sat, 14 Mar 2020 16:04:00 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/dangjin-si.ru/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Ongjin-gun.ru</title>
       <link>https://codecorea.github.io/tags/ongjin-gun.ru/</link>
       <pubDate>Sat, 14 Mar 2020 16:03:59 +0900</pubDate>
@@ -3968,15 +4229,6 @@
       <pubDate>Sat, 14 Mar 2020 16:03:51 +0900</pubDate>
       
       <guid>https://codecorea.github.io/tags/eunpyeong-gu.es/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dangjin-si.es</title>
-      <link>https://codecorea.github.io/tags/dangjin-si.es/</link>
-      <pubDate>Sat, 14 Mar 2020 16:03:50 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/dangjin-si.es/</guid>
       <description></description>
     </item>
     
@@ -4044,15 +4296,6 @@
     </item>
     
     <item>
-      <title>Dangjin-si.de</title>
-      <link>https://codecorea.github.io/tags/dangjin-si.de/</link>
-      <pubDate>Sat, 14 Mar 2020 16:03:39 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/dangjin-si.de/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Ongjin-gun.de</title>
       <link>https://codecorea.github.io/tags/ongjin-gun.de/</link>
       <pubDate>Sat, 14 Mar 2020 16:03:38 +0900</pubDate>
@@ -4112,15 +4355,6 @@
       <pubDate>Sat, 14 Mar 2020 16:03:30 +0900</pubDate>
       
       <guid>https://codecorea.github.io/tags/eunpyeong-gu.fr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dangjin-si.fr</title>
-      <link>https://codecorea.github.io/tags/dangjin-si.fr/</link>
-      <pubDate>Sat, 14 Mar 2020 16:03:29 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/dangjin-si.fr/</guid>
       <description></description>
     </item>
     
@@ -4620,29 +4854,11 @@
     </item>
     
     <item>
-      <title>Yeongdeungpo-gu.ja</title>
-      <link>https://codecorea.github.io/tags/yeongdeungpo-gu.ja/</link>
-      <pubDate>Thu, 12 Mar 2020 12:19:09 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/yeongdeungpo-gu.ja/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Goseong-gun.ru</title>
       <link>https://codecorea.github.io/tags/goseong-gun.ru/</link>
       <pubDate>Thu, 12 Mar 2020 12:19:08 +0900</pubDate>
       
       <guid>https://codecorea.github.io/tags/goseong-gun.ru/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yeongdeungpo-gu.ru</title>
-      <link>https://codecorea.github.io/tags/yeongdeungpo-gu.ru/</link>
-      <pubDate>Thu, 12 Mar 2020 12:19:07 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/yeongdeungpo-gu.ru/</guid>
       <description></description>
     </item>
     
@@ -4656,15 +4872,6 @@
     </item>
     
     <item>
-      <title>Yeongdeungpo-gu.es</title>
-      <link>https://codecorea.github.io/tags/yeongdeungpo-gu.es/</link>
-      <pubDate>Thu, 12 Mar 2020 12:19:05 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/yeongdeungpo-gu.es/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Goseong-gun.de</title>
       <link>https://codecorea.github.io/tags/goseong-gun.de/</link>
       <pubDate>Thu, 12 Mar 2020 12:19:04 +0900</pubDate>
@@ -4674,29 +4881,11 @@
     </item>
     
     <item>
-      <title>Yeongdeungpo-gu.de</title>
-      <link>https://codecorea.github.io/tags/yeongdeungpo-gu.de/</link>
-      <pubDate>Thu, 12 Mar 2020 12:19:03 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/yeongdeungpo-gu.de/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Goseong-gun.fr</title>
       <link>https://codecorea.github.io/tags/goseong-gun.fr/</link>
       <pubDate>Thu, 12 Mar 2020 12:19:01 +0900</pubDate>
       
       <guid>https://codecorea.github.io/tags/goseong-gun.fr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yeongdeungpo-gu.fr</title>
-      <link>https://codecorea.github.io/tags/yeongdeungpo-gu.fr/</link>
-      <pubDate>Thu, 12 Mar 2020 12:19:00 +0900</pubDate>
-      
-      <guid>https://codecorea.github.io/tags/yeongdeungpo-gu.fr/</guid>
       <description></description>
     </item>
     
